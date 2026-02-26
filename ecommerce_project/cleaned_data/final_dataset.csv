@@ -1,0 +1,9 @@
+order_id,customer_id,order_date,product_id,quantity,order_price,revenue,name,email,join_date,location,product_name,category,product_price,payment_id,payment_method,payment_status
+1001,C001,2024-05-01,P101,2.0,500.0,1000.0,John Doe,john@example.com,2023-01-12,Bangalore,Phone,Electronics,500,PAY1,Card,Completed
+1002,C002,2024-01-05,P102,1.0,1200.0,1200.0,Jane Smith,jane@example.com,2023-08-24,Mumbai,Laptop,Electronics,1200,PAY2,Cash,Completed
+1003,C003,2024-01-05,P103,1.0,700.0,700.0,Unknown,mike@example.com,2023-08-24,Delhi,Headphones,Electronics,700,PAY3,Card,Failed
+1004,C001,2024-07-01,P101,1.0,500.0,500.0,John Doe,john@example.com,2023-01-12,Bangalore,Phone,Electronics,500,PAY4,UPI,Completed
+1005,C004,2024-08-01,P104,3.0,650.0,1950.0,Sara Khan,sara@example.com,2023-10-10,Unknown,Shoes,Fashion,800,PAY5,Card,Pending
+1006,C005,2024-08-01,P105,2.0,300.0,600.0,David Lee,david@example.com,2023-09-09,Chennai,T-shirt,Fashion,300,PAY6,UPI,Completed
+1007,C002,2024-09-01,P102,1.0,1200.0,1200.0,Jane Smith,jane@example.com,2023-08-24,Mumbai,Laptop,Electronics,1200,PAY7,Cash,Completed
+1008,C006,2024-10-01,P106,5.0,150.0,750.0,Chris Evans,chris@example.com,2023-08-08,Bangalore,Watch,Accessories,150,No_ID,Unknown,No Payment

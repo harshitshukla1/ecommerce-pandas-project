@@ -1,0 +1,7 @@
+customer_id,name,email,join_date,location
+C001,John Doe,john@example.com,2023-12-01,Bangalore
+C002,Jane Smith,jane@example,2023/11/15,Mumbai
+C003,,mike@example.com,15-11-2023,Delhi
+C004,Sara Khan,sara@example.com,2023-10-10,
+C005,David Lee,david@example.com,2023-09-09,Chennai
+C006,Chris Evans,chris@example.com,2023-08-08,Bangalore

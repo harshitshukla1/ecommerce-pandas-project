@@ -1,0 +1,8 @@
+payment_id,order_id,payment_method,payment_status
+PAY1,1001,Card,Completed
+PAY2,1002,Cash,Completed
+PAY3,1003,Card,Failed
+PAY4,1004,UPI,Completed
+PAY5,1005,Card,Pending
+PAY6,1006,UPI,Completed
+PAY7,1007,Cash,Completed
