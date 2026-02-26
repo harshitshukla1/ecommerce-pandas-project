@@ -79,7 +79,6 @@ A small segment of customers contributes significantly to total sales
 
 Failed payments represent a measurable revenue loss
 
-Revenue trends show clear patterns over time
 
 Tech Stack
 
@@ -87,12 +86,11 @@ Python
 
 Pandas
 
-Matplotlib
 
 Project Structure
 data/        # raw datasets
 notebooks/   # analysis notebooks
-output/      # generated results and visuals
+output/      # generated results
 README.md
 Conclusion
 
